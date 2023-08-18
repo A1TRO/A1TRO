@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <p>Explore my repository [@A1TRO/A1TRO](link-to-your-repo) to delve into a collection that reflects my journey, skills, and contributions. Your feedback and collaboration are highly appreciated!</p>
+  <p>Explore my repository [@A1TRO/A1TRO](https://github.com/A1TRO) to delve into a collection that reflects my journey, skills, and contributions. Your feedback and collaboration are highly appreciated!</p>
 </div>
 
 
